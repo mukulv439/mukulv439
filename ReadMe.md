@@ -1,7 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer with 3+ years of Full Stack development experience, proficient in React.js, Next.js, Node.js, Nest.js, and PHP (Laravel). Proven ability to deliver robust, scalable, and cloud-native solutions across e-commerce, logistics, healthcare, and marketplace domains, directly impacting 5k+ global users.
-
-Strong in system design, distributed systems, and DSA. Passionate about building fault-tolerant platforms, clean architecture, and mentoring junior developers. Focused on continuous learning and solving real-world problems through technology.
+Experienced Software Engineer with expertise in React.js, Next.js, Nest.js, .NET, and AWS, specializing in scalable web and application engineering. Skilled in designing and delivering high-performance, user-centric digital solutions by combining creativity with technical precision. Proficient in full-stack development, cloud infrastructure, RESTful APIs, and modern DevOps practices. Passionate about clean code, innovation, and contributing to impactful, global-scale technology initiatives.
 
 ---
 
