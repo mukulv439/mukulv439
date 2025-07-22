@@ -8,8 +8,6 @@ Strong in system design, distributed systems, and DSA. Passionate about building
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulv439/) 
 
-## 📄 Resume:
-[Explore My Resume](https://drive.google.com/file/d/1ZVjVu54_40DL9_3kOVhWVKAkEjaF8haf/view?usp=sharing)
 
 ---
 
