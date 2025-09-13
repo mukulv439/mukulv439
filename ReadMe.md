@@ -1,5 +1,11 @@
 # 💫 About Me:
-Experienced Software Engineer with expertise in React.js, Next.js, Nest.js, .NET, and AWS, specializing in scalable web and application engineering. Skilled in designing and delivering high-performance, user-centric digital solutions by combining creativity with technical precision. Proficient in full-stack development, cloud infrastructure, RESTful APIs, and modern DevOps practices. Passionate about clean code, innovation, and contributing to impactful, global-scale technology initiatives.
+Full-Stack Software Engineer with expertise across the stack—from modern front-ends using React.js, Vue.js, Angular, to scalable back-ends built with Node.js, Laravel, and .NET, and cloud-native deployments on AWS.
+
+Certified in AI, LLM, and RAG, with a strong foundation in system design and DSA, I build performant, maintainable, and secure systems that align with business goals and scale with demand.
+
+I bring a product mindset, clean architecture principles, and hands-on experience delivering impact in fast-paced, cross-functional environments
+
+📧 Email: Mukulv439@gmail.com
 
 ---
 
