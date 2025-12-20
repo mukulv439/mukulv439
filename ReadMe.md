@@ -5,14 +5,11 @@ Certified in AI, LLM, and RAG, with a strong foundation in system design and DSA
 
 I bring a product mindset, clean architecture principles, and hands-on experience delivering impact in fast-paced, cross-functional environments
 
-📧 Email: Mukulv439@gmail.com
-
----
+📧 Email: [Mukulv439@gmail.com](mailto:Mukulv439@gmail.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulv439/) 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)]([YOUR_RESUME_URL](https://drive.google.com/file/d/1tRsMKmWWz-USnhBRSdHcSSI1soPYm_7v/view?usp=sharing))
-
+[LinkedIn](https://www.linkedin.com/in/mukulv439/)  
+[Resume](https://drive.google.com/file/d/1tRsMKmWWz-USnhBRSdHcSSI1soPYm_7v/view?usp=sharing)
 
 [![](https://visitcount.itsvg.in/api?id=mukul667&icon=0&color=0)](https://visitcount.itsvg.in)
 
