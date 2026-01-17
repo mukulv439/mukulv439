@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mukul Verma
 
 🚀 Full-Stack Software Engineer | 4+ Years Experience  
-💻 React • Next.js • Node.js • Microservices • AWS  
+💻 React • Next.js • Node.js • Microservices • AWS • Angular  
 📍 Noida, India  
 
 [LinkedIn](https://linkedin.com/in/mukulv439) • 
@@ -71,7 +71,6 @@ I’ve supported **5,000+ users in single product launches**, improved latency b
 - Reduced vulnerability review time by **60%**
 - Designed REST APIs and scalable storage using AWS S3
 
-> 📌 More system-design focused projects coming soon
 
 ---
 
@@ -94,8 +93,6 @@ I’ve supported **5,000+ users in single product launches**, improved latency b
 ## 📫 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/mukulv439
-- Open to discussions on **backend systems, scalability, and performance**
+- Open to discussions on ** systems, scalability, and performance**
 
 ---
-
-⭐ If you find my work interesting, feel free to explore and star the repositories.
