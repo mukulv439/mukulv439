@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukul Verma
 
-🚀 Full-Stack Software Engineer | 4+ Years Experience  
+🚀 Full-Stack Software Engineer
 💻 React • Next.js • Node.js • Microservices • AWS • Angular  
 📍 Noida, India  
 
