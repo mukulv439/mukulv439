@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Full-Stack Software Engineer experience in ** building **scalable, high-performance web applications** across **Fintech, Logistics, E-commerce, and Healthcare** domains.
+Full-Stack Software Engineer experienced in building scalable, high-performance web applications across Fintech, Logistics, E-commerce, AI,  and Healthcare domains.
 
 I specialize in designing **microservices and micro-frontend architectures**, optimizing performance, and building **production-ready systems** that scale.  
 I’ve supported **5,000+ users in single product launches**, improved latency by **35–40%**, and delivered systems with strong observability and reliability.
