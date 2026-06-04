@@ -93,6 +93,6 @@ I’ve supported **5,000+ users in single product launches**, improved latency b
 ## 📫 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/mukulv439
-- Open to discussions on ** systems, scalability, and performance**
+- Open to discussions on systems, scalability, and performance
 
 ---
