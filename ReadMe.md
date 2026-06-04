@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mukul Verma
 
 🚀 Full-Stack Software Engineer
-💻 React • Next.js • Node.js • Microservices • AWS • Angular  
+💻 React • Next.js • Node.js • Microservices • AWS • Angular • Pyhton  
 📍 Noida, India  
 
 [LinkedIn](https://linkedin.com/in/mukulv439) • 
@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Full-Stack Software Engineer with 4+ years of experience** building **scalable, high-performance web applications** across **Fintech, Logistics, E-commerce, and Healthcare** domains.
+I am a **Full-Stack Software Engineer experience in ** building **scalable, high-performance web applications** across **Fintech, Logistics, E-commerce, and Healthcare** domains.
 
 I specialize in designing **microservices and micro-frontend architectures**, optimizing performance, and building **production-ready systems** that scale.  
 I’ve supported **5,000+ users in single product launches**, improved latency by **35–40%**, and delivered systems with strong observability and reliability.
@@ -21,7 +21,7 @@ I’ve supported **5,000+ users in single product launches**, improved latency b
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript, TypeScript, SQL, PHP, HTML5, CSS3
+- JavaScript, TypeScript, SQL, PHP, HTML, CSS,  Pyhton
 
 ### Frontend
 - React.js, Next.js, Angular, Vue.js
@@ -31,10 +31,10 @@ I’ve supported **5,000+ users in single product launches**, improved latency b
 ### Backend
 - Node.js, Express.js, NestJS
 - GraphQL, REST APIs
-- Prisma, Laravel
+- Prisma, Laravel, FastAPI, RAG, GEN AI
 
 ### Databases & Cloud
-- PostgreSQL, MongoDB, Redis
+- PostgreSQL, MongoDB, Redis, Vector DB
 - AWS (EC2, RDS, S3)
 - Docker, Kubernetes
 
@@ -50,9 +50,9 @@ I’ve supported **5,000+ users in single product launches**, improved latency b
 ## 💼 Professional Experience (Highlights)
 
 ### Software Engineer — Suretek Infosoft (Aug 2024 – Present)
-- Built **independent micro-frontend modules** using React & Redux, reducing user interactions by **40%**
-- Developed **GraphQL microservices** with Express.js & PostgreSQL, improving data accuracy by **25%**
-- Implemented CI/CD pipelines and deployed scalable systems on AWS
+- Built **independent micro-frontend modules** using React & Redux, Angular, vue, reducing user interactions by **40%**
+- Developed **GraphQL microservices** with Express.js & PostgreSQL, FastAPI, Laravel improving data accuracy by **25%**
+- Implemented CI/CD pipelines and deployed scalable systems on AWS with RAG, AI Models
 - Improved system observability and performance using **Datadog, Sentry, SonarQube**
 
 ### Software Developer — Techtonic Enterprises (Mar 2022 – Jul 2024)
